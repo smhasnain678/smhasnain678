@@ -3,7 +3,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=smhasnain678&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
- 🌱 I’m currently learning about 𝗕𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻 & 𝗪𝗲𝗯 𝟯.𝟬<br><br>- 🔭  I’m currently Working on 𝗕𝗮𝗰𝗸 𝗘𝗻𝗱<br><br>- 💬 Ask me about 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗕𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻<br><br>- 👨‍💻 Looking forward to collaborating on 𝗪𝗲𝗯 𝟯.𝟬 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+- 🌱 I’m currently learning about 𝗕𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻 & 𝗪𝗲𝗯 𝟯.𝟬<br><br>- 🔭  I’m currently Working on 𝗕𝗮𝗰𝗸 𝗘𝗻𝗱<br><br>- 💬 Ask me about 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗕𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻<br><br>- 👨‍💻 Looking forward to collaborating on 𝗪𝗲𝗯 𝟯.𝟬 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 
 ## 🌐 Socials:
