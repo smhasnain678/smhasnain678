@@ -1,8 +1,5 @@
 # 💫 About Me:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=smhasnain678&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
-
 - 🌱 I’m currently learning about 𝗕𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻 & 𝗪𝗲𝗯 𝟯.𝟬
 
 - 🔭  I’m currently Working on 𝗕𝗮𝗰𝗸 𝗘𝗻𝗱
@@ -32,3 +29,6 @@
 [![](https://visitcount.itsvg.in/api?id=smhasnain678&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=smhasnain678&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
