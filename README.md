@@ -88,12 +88,17 @@ I'm a **BS Software Engineering Student** from 🇵🇰 Pakistan with a passion 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smhasnain678)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-ID)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOURMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hasnain-914a8b29b/?skipRedirect=true)
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smhasnain678)
+
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SMhasnain43)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muhammad_hasnain43/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smhasnain43@gmail.com)
+
+</div> 
 
 ---
 
@@ -106,3 +111,5 @@ I'm a **BS Software Engineering Student** from 🇵🇰 Pakistan with a passion 
 [![GitHub followers](https://img.shields.io/github/followers/smhasnain678?label=Follow&style=social)](https://github.com/smhasnain678)
 
 </div>
+
+💬 Feel free to connect with me. I'm always open to learning, collaboration, and discussing DevOps, Linux, and emerging technologies.
