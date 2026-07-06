@@ -1,12 +1,12 @@
 # 💫 About Me:
 
-- 🌱 I’m currently learning about 𝗕𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻 & 𝗪𝗲𝗯 𝟯.𝟬
+🌱 I’m currently learning 𝗗𝗲𝘃𝗢𝗽𝘀, 𝗟𝗶𝗻𝘂𝘅 𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻 & 𝗖𝗹𝗼𝘂𝗱 𝗖𝗼𝗺𝗽𝘂𝘁𝗶𝗻𝗴
 
-- 🔭  I’m currently Working on 𝗕𝗮𝗰𝗸 𝗘𝗻𝗱
+🔭 I’m currently working on 𝗟𝗶𝗻𝘂𝘅, 𝗕𝗮𝘀𝗵 𝗦𝗰𝗿𝗶𝗽𝘁𝗶𝗻𝗴 & 𝗗𝗲𝘃𝗢𝗽𝘀 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-- 💬 Ask me about 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗕𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻
+💬 Ask me about 𝗟𝗶𝗻𝘂𝘅, 𝗥𝗛𝗘𝗟, 𝗕𝗮𝘀𝗵 𝗦𝗰𝗿𝗶𝗽𝘁𝗶𝗻𝗴, 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 & 𝗕𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻
 
-- 👨‍💻 Looking forward to collaborating on 𝗪𝗲𝗯 𝟯.𝟬 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+👨‍💻 Looking forward to collaborating on 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲, 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗖𝗹𝗼𝘂𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 
 ## 🌐 Socials:
